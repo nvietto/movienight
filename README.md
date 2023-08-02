@@ -6,8 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of movienight is to let R recommend a film after a long day of
-coding.
+Let R recommend a film after a long day of coding.
 
 ## Installation
 
