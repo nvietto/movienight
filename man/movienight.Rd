@@ -17,5 +17,5 @@ Recommends a movie
 }
 \examples{
 movienight()
-[1] "Up"
+"Up"
 }
