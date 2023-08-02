@@ -11,8 +11,7 @@ coding.
 
 ## Installation
 
-You can install the development version of movienight from
-[GitHub](https://github.com/) with:
+You can install from GitHub
 
 ``` r
 # install.packages("devtools")
