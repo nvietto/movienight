@@ -21,6 +21,11 @@ devtools::install_github("nvietto/movienight")
 
 ``` r
 library(movienight)
-# movienight()
-## [1] "One Flew Over the Cuckoo's Nest"
+
+# then call movienight() 
+
+movienight()
+
+#[1] "Whiplash"
+
 ```
