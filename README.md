@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="man/figures/movienight.png" align="right" style="width: 25%;"/>
+<img src="man/figures/movienight.png" align="right" width="120"/>
 
 # movienight
 
