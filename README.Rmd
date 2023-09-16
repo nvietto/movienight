@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="man/figures/movienight.png" align="right" style="width: 25%;"/>
+
 
 # movienight
 
