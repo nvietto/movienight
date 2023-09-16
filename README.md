@@ -8,7 +8,7 @@
 
 # movienight
 
-Let R recommend a film after a long day of coding.
+Let R recommend a film.
 
 ## Installation
 
