@@ -24,10 +24,17 @@ devtools::install_github("nvietto/movienight")
 ``` r
 library(movienight)
 
-# then call movienight() 
+# then call movienight()
 
 movienight()
 
 #[1] "Whiplash"
 
 ```
+
+
+## Note
+
+This package was created for informal educational purposes and represents my first attempt at package development. 
+
+
