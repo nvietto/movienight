@@ -35,6 +35,5 @@ movienight()
 
 ## Note
 
-This package was created for informal educational purposes and represents my first attempt at package development. 
-
+This package was my first attempt at package development. It's not perfect but i'm still proud of it. 
 
